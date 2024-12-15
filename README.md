@@ -8,7 +8,7 @@ This project analyzes retail sales performance at the store level across regions
 ### 1. Data Sources and Schema
 The data for this project was sourced from the [Contoso Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used in this project:
 
-(image)
+![image](https://github.com/user-attachments/assets/6a804ae0-fa57-4e51-a59a-7346617687ca)
 
 ### 2. Tools Used
 - **SQL Server**: For data retrieval, cleaning, and preparation.
@@ -28,7 +28,7 @@ Before creating the dashboard, I conducted a thorough data preparation process:
 ### 4. Tableau Data Model
 I organized the data in Tableau, ensuring efficient relationships between tables and simplifying the creation of visualizations.
 
-(image)
+![image](https://github.com/user-attachments/assets/099d0082-725f-4f2d-9aa6-e7d7258401d7)
 
 ### 5. Dashboard Development
 The "Store Performance Across Regions" dashboard was designed in Tableau to deliver a user-friendly experience with robust features.
