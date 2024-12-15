@@ -1,7 +1,7 @@
 # Store Performance Across Regions
 
 ## Project Overview
-This project analyzes retail sales performance at the store level across regions. Using SQL Server for data preparation and Tableau for visualization, I created the "Store Performance Across Regions" dashboard. The interactive dashboard enables stakeholders to monitor key metrics, identify trends, and explore store performance through intuitive visualizations.
+This project analyzes retail sales performance at the store level across multiple regions. Using SQL Server for data preparation and Tableau for visualization, I developed the "Store Performance Across Regions" dashboard. The interactive dashboard allows users to monitor key performance metrics, track sales trends, and explore store performance through dynamic visualizations.
 
 ## Steps and Methodology
 
