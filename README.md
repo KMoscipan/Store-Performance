@@ -59,7 +59,7 @@ You can access the full interactive "Store Performance Across Regions" dashboard
 ## Outcome
 The "Store Performance Across Regions" dashboard provides:
 
-- Key metrics: Sales, Gross Margin %, Sales per Employee, Sales per Square Meter, and Percent of Total.
+- Key metrics: Sales, Gross Margin %, Sales per Employee, Sales per Square Meter.
 - Insights into store and product performance, including top stores and product categories by region.
 - Period-specific analysis with filters for month, year, and city to explore sales patterns within a defined timeframe.
 
