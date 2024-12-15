@@ -54,10 +54,6 @@ The "Store Performance Across Regions" dashboard was designed in Tableau to deli
 ## Final Dashboard
 You can access the full interactive "Store Performance Across Regions" dashboard on [Tableau Public](https://public.tableau.com/app/profile/katarzyna.moscipan/viz/StorePerformanceAcrossRegions/Dashboard2):
 
-![image](https://github.com/user-attachments/assets/b5be307c-49e7-4a39-92dc-2d6ca68302f7)
-
-![image](https://github.com/user-attachments/assets/7356889c-58fe-470d-b6a2-4827191215e4)
-
 ![image](https://github.com/user-attachments/assets/387a4d2d-4c50-4858-8d5d-4ffa53f6db4c)
 
 ## Outcome
