@@ -6,7 +6,7 @@ This project analyzes retail sales performance at the store level across regions
 ## Steps and Methodology
 
 ### 1. Data Sources and Schema
-The data for this project was sourced from the [Contoso Retail Demo Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used in this project:
+The data for this project was sourced from the [Contoso Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used in this project:
 
 (image)
 
