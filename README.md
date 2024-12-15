@@ -23,7 +23,7 @@ Before creating the dashboard, I conducted a thorough data preparation process:
 - **SQL Views**:
   - Created three SQL views to structure and join data from key tables, preparing it for use in Tableau.
 - **Documentation**:
-  - Detailed SQL scripts for quality checks ([quality_checks.sql](https://github.com/KMoscipan/Store-Performance/blob/main/data_quality_checks.sql)) and view creation (`views.sql`) are provided in the repository.
+  - Detailed SQL scripts for quality checks ([quality_checks.sql](https://github.com/KMoscipan/Store-Performance/blob/main/data_quality_checks.sql)) and view creation ([views.sql](https://github.com/KMoscipan/Store-Performance/blob/main/tableau_data_views.sql)) are provided in the repository.
 
 ### 4. Tableau Data Model
 I organized the data in Tableau, ensuring efficient relationships between tables and simplifying the creation of visualizations.
