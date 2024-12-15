@@ -54,7 +54,7 @@ The "Store Performance Across Regions" dashboard was designed in Tableau to deli
 ### Final Dashboard
 Below is the final version of the "Store Performance Across Regions" dashboard:
 
-<img width="802" alt="image" src="https://github.com/user-attachments/assets/9c4659d8-b9ae-4a23-9e73-2782ec8d3c0d" />
+![image](https://github.com/user-attachments/assets/6a534d24-aeea-4c9a-a559-1b294a3d5039)
 
 ## Outcome
 The "Store Performance Across Regions" dashboard enables users to analyze performance metrics such as Sales, Gross Margin %, and Sales per Employee across multiple regions. With the ability to drill down into cities, users can assess store performance and top product categories within each country.
