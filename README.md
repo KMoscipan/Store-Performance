@@ -52,7 +52,7 @@ The "Store Performance Across Regions" dashboard was designed in Tableau to deli
   - Dynamic titles update based on map selection (city or country).
 
 ### Final Dashboard
-Below is the final version of the "Store Performance Across Regions" dashboard:
+The "Store Performance Across Regions" dashboard can be accessed via [Tableau](https://public.tableau.com/app/profile/katarzyna.moscipan/viz/StorePerformanceAcrossRegions/Dashboard2):
 
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/c530e11d-1472-4865-8df9-2f1a91fc2ef8" />
 
