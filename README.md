@@ -8,7 +8,7 @@ This project analyzes retail sales performance at the store level across regions
 ### 1. Data Sources and Schema
 The data for this project was sourced from the [Contoso Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used in this project:
 
-![image](https://github.com/user-attachments/assets/aa0be67d-3cde-4dfe-abec-45bd94d5731a)
+![image](https://github.com/user-attachments/assets/a76a6898-ae13-4a8a-9e55-753da044b8b7)
 
 ### 2. Tools Used
 - **SQL Server**: For data retrieval, cleaning, and preparation.
