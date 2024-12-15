@@ -28,7 +28,7 @@ Before creating the dashboard, I conducted a thorough data preparation process:
 ### 4. Tableau Data Model
 I organized the data in Tableau, ensuring efficient relationships between tables and simplifying the creation of visualizations.
 
-<img width="328" alt="image" src="https://github.com/user-attachments/assets/f65f115e-dd34-4b5a-bf6e-21b75056b4a2" />
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/b52fe0db-eb3a-4eb6-bf64-e150edc88ac1" />
 
 ### 5. Dashboard Development
 The "Store Performance Across Regions" dashboard was designed in Tableau to deliver a user-friendly experience with robust features.
