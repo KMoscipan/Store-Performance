@@ -57,7 +57,11 @@ You can access the full interactive "Store Performance Across Regions" dashboard
 ![image](https://github.com/user-attachments/assets/b5be307c-49e7-4a39-92dc-2d6ca68302f7)
 
 ## Outcome
-The "Store Performance Across Regions" dashboard enables users to analyze performance metrics such as Sales, Gross Margin %, and Sales per Employee across multiple regions. With the ability to drill down into cities, users can assess store performance and top product categories within each country.
+The "Store Performance Across Regions" dashboard provides:
+
+- Key metrics: Sales, Gross Margin %, Sales per Employee, Sales per Square Meter, and Percent of Total.
+- Insights into store and product performance, including top stores and product categories by region.
+- Period-specific analysis with filters for month, year, and city to explore sales patterns within a defined timeframe.
 
 ## Future Scope
 The project can be expanded by:
