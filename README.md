@@ -1,7 +1,7 @@
 # Store Performance Across Regions
 
 ## Project Overview
-This project focuses on analyzing retail sales performance at the store level across multiple regions. By leveraging SQL Server for data preparation and Tableau for visualization, I developed the "Store Performance Across Regions" dashboard. This interactive tool enables users to monitor key performance metrics, uncover sales patterns over time, and evaluate store performance through dynamic and intuitive visualizations.
+This project focuses on analyzing retail sales performance at the store level across multiple regions. By leveraging SQL Server for data preparation and Tableau for visualization, I developed the "Store Performance Across Regions" dashboard. This interactive tool enables users to monitor key performance metrics, uncover sales patterns over time, and evaluate store performance through interactive visualizations.
 
 ### Watch the Dashboard in Action
 
@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/11f760fe-3c86-41f1-9e38-5e256ce96c0b
 ## Steps and Methodology
 
 ### 1. Data Sources and Schema
-The data for this project was sourced from the [Contoso Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used in this project:
+The data for this project was sourced from the [Contoso Database](https://www.microsoft.com/en-us/download/details.aspx?id=18279). Below is the schema diagram showing the key tables and relationships used:
 
 ![image](https://github.com/user-attachments/assets/a76a6898-ae13-4a8a-9e55-753da044b8b7)
 
@@ -30,12 +30,12 @@ Before creating the dashboard, I conducted a thorough data preparation process:
   - Detailed SQL scripts for quality checks ([data_quality_checks.sql](https://github.com/KMoscipan/Store-Performance/blob/main/data_quality_checks.sql)) and view creation ([tableau_data_views.sql](https://github.com/KMoscipan/Store-Performance/blob/main/tableau_data_views.sql)) are provided in the repository.
 
 ### 4. Tableau Data Model
-I organized the data in Tableau, ensuring efficient relationships between tables and simplifying the creation of visualizations.
+The data in Tableau was organized with efficient relationships between tables, ensuring seamless creation of visualizations
 
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/b52fe0db-eb3a-4eb6-bf64-e150edc88ac1" />
 
 ### 5. Dashboard Development
-The "Store Performance Across Regions" dashboard was designed in Tableau to deliver a user-friendly experience with robust features.
+The "Store Performance Across Regions" dashboard was designed with user-friendliness and functionality in mind.
 
 #### Key Features and Functionalities
 
@@ -61,14 +61,14 @@ You can access the full interactive "Store Performance Across Regions" dashboard
 ![image](https://github.com/user-attachments/assets/387a4d2d-4c50-4858-8d5d-4ffa53f6db4c)
 
 ## Outcome
-The "Store Performance Across Regions" dashboard provides:
+The "Store Performance Across Regions" dashboard delivers:
 
 - Key metrics: Sales, Gross Margin %, Sales per Employee, Sales per Square Meter.
-- Insights into store and product performance, including top stores and product categories by region.
-- Period-specific analysis with filters for month, year, and city to explore sales patterns within a defined timeframe.
+- Performance Insights: Top-performing stores and product categories by region.
+- Period Analysis: Filters for month, year, and city to explore sales patterns within a defined timeframe.
 
 ## Future Scope
-The project can be expanded by:
+Potential enhancements include:
 - Adding more dashboards for deeper retail performance insights.
 - Introducing additional KPIs and advanced analytics.
-- Improving forecasting capabilities and interactivity.
+- Expanding interactivity and implementing forecasting capabilities.
