@@ -49,7 +49,7 @@ CREATE VIEW StoreDetails AS
 SELECT 
     s.StoreKey,
     s.StoreName,
-    ISNULL(EmployeeCount, 25) AS EmployeeCount, -- Default EmployeeCount to 25 if NULL
+    ISNULL(EmployeeCount, 25) AS EmployeeCount, -- Use 25 as a default for NULL EmployeeCount to maintain consistency and avoid errors in demo data.
     s.SellingAreaSize,
     g.CityName,
     g.RegionCountryName AS CountryName,
