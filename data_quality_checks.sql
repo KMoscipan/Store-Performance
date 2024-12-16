@@ -2,7 +2,7 @@
 
 SELECT  
     /* Total Rows Count */
-    COUNT(*) AS TotalRows,
+    COUNT(f.StoreKey) AS TotalRows,
 
     /* Missing Values (for the fact table itself) */
     SUM(CASE WHEN f.DateKey IS NULL THEN 1 ELSE 0 END) AS MissingDateKey,
@@ -63,7 +63,7 @@ LEFT JOIN (
 
 SELECT  
     /* Total Rows Count */
-    COUNT(*) AS TotalRows,
+    COUNT(dp.ProductKey) AS TotalRows,
 
     /* Missing Values (for the DimProduct table itself) */
     SUM(CASE WHEN dp.ProductKey IS NULL THEN 1 ELSE 0 END) AS MissingProductKey,
@@ -105,7 +105,7 @@ LEFT JOIN (
 
 SELECT  
     /* Total Rows Count */
-    COUNT(*) AS TotalRows,
+    COUNT(s.StoreKey) AS TotalRows,
 
     /* Missing Values (for the DimStore table itself) */
     SUM(CASE WHEN s.StoreKey IS NULL THEN 1 ELSE 0 END) AS MissingStoreKey,
