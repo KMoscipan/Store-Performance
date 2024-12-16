@@ -5,15 +5,7 @@ This project analyzes retail sales performance at the store level across multipl
 
 ### Watch the Dashboard in Action
 
-
-
-https://github.com/user-attachments/assets/cecf469d-95ff-4aed-b2ca-8edec153aba1
-
-
-
 https://github.com/user-attachments/assets/11f760fe-3c86-41f1-9e38-5e256ce96c0b
-
-
 
 ## Steps and Methodology
 
