@@ -4,7 +4,8 @@
 This project analyzes retail sales performance at the store level across multiple regions. Using SQL Server for data preparation and Tableau for visualization, I developed the "Store Performance Across Regions" dashboard. The interactive dashboard allows users to monitor key performance metrics, track sales trends, and explore store performance through dynamic visualizations.
 
 ### Watch the Dashboard in Action
-https://github.com/user-attachments/assets/08699cec-3761-4990-a45c-403cfae28b84
+
+https://github.com/user-attachments/assets/e24796ff-3f0f-4453-b48f-bfe9e824e4db
 
 ## Steps and Methodology
 
