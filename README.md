@@ -23,7 +23,7 @@ Before creating the dashboard, I conducted a thorough data preparation process:
 
 - **Quality Checks**:
   - Checked for missing values, duplicates, and orphaned records using SQL queries.
-  - Verified data ranges (e.g., ensuring SalesAmount was non-negative).
+  - Verified data ranges (e.g. ensuring SalesAmount was non-negative).
 - **SQL Views**:
   - Created three SQL views to structure and join data from key tables, preparing it for use in Tableau.
 - **Documentation**:
