@@ -25,7 +25,7 @@ SELECT
     SUM(CASE WHEN f.SalesAmount < 0 OR f.SalesAmount > 100000000 THEN 1 ELSE 0 END) AS InvalidSalesAmountRange,
     SUM(CASE WHEN f.DateKey < '2000-01-01' OR f.DateKey > GETDATE() THEN 1 ELSE 0 END) AS InvalidDateRange,
 
-    /* Data Freshness */
+    /* Latest Sales Date in the Fact Table */
     (SELECT MAX(DateKey) FROM FactSales) AS LastUpdatedDate
 
 FROM FactSales f
@@ -148,4 +148,5 @@ SELECT
     s.GeographyKey
 FROM DimStore s
 WHERE s.EmployeeCount IS NULL;
+
 
