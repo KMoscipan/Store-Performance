@@ -76,9 +76,6 @@ SELECT
     /* Duplicates Check (based on a combination of keys) */
     SUM(CASE WHEN DuplicateCheck.DuplicateCount > 1 THEN 1 ELSE 0 END) AS DuplicateRows,
 
-    /* Data Freshness */
-    (SELECT MAX(ProductKey) FROM DimProduct) AS LastUpdatedDate
-
 FROM DimProduct dp
 
 /* Subquery to check for duplicates */
@@ -151,3 +148,4 @@ SELECT
     s.GeographyKey
 FROM DimStore s
 WHERE s.EmployeeCount IS NULL;
+
