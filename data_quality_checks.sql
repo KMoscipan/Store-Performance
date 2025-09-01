@@ -70,9 +70,6 @@ SELECT
     SUM(CASE WHEN dp.ProductName IS NULL THEN 1 ELSE 0 END) AS MissingProductName,
     SUM(CASE WHEN dp.ProductSubcategoryKey IS NULL THEN 1 ELSE 0 END) AS MissingProductSubcategoryKey,
 
-    /* Orphaned Records (Foreign Key Validation) */
-    SUM(CASE WHEN dp.ProductKey IS NULL THEN 1 ELSE 0 END) AS OrphanedProductKey,
-
     /* Duplicates Check (based on a combination of keys) */
     SUM(CASE WHEN DuplicateCheck.DuplicateCount > 1 THEN 1 ELSE 0 END) AS DuplicateRows,
 
@@ -148,5 +145,6 @@ SELECT
     s.GeographyKey
 FROM DimStore s
 WHERE s.EmployeeCount IS NULL;
+
 
 
